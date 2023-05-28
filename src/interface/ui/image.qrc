@@ -1,0 +1,24 @@
+<RCC>
+  <qresource>
+    <file>../../../img/hello/line.png</file>
+    <file>../../../img/hello/welcome.png</file>
+    <file>../../../img/hello/bg.png</file>
+    <file>../../../img/hello/hello.png</file>
+    <file>../../../img/pilihDaerah/submit.png</file>
+    <file>../../../img/pilihDaerah/submit.png</file>
+    <file>../../../img/sedangBerlangsung/destinasi.png</file>
+    <file>../../../img/sedangBerlangsung/depan.png</file>
+    <file>../../../img/sedangBerlangsung/belakang.png</file>
+    <file>../../../img/sedangBerlangsung/table.png</file>
+    <file>../../../img/sedangBerlangsung/Sedang Berlangsung.png</file>
+    <file>../../../img/biayaTransport/People in Car.png</file>
+    <file>../../../img/biayaTransport/Bus.png</file>
+    <file>../../../img/biayaTransport/Plane.png</file>
+    <file>../../../img/biayaTransport/Train.png</file>
+    <file>../../../img/pilihDaerah/Group 61.png</file>
+    <file>../../../img/logo/logo.png</file>
+    <file>../../../img/home/home.png</file>
+    <file>../../../img/pilihDaerah/back.png</file>
+    <file>../../../img/pilihDaerah/next.png</file>
+  </qresource>
+</RCC>
